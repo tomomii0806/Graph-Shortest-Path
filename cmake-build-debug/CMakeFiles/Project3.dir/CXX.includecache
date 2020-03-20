@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tomomi/CLionProjects/CSS343/Project3/graphl.h
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.h
+queue
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project3/graphm.h
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project3/myDriver.cpp
+iostream
+-
+fstream
+-
+graphl.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/graphl.h
+graphm.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/graphm.h
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.h
+nodedata.cpp
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.cpp
+
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.cpp
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project3/nodedata.h
+string
+-
+iostream
+-
+fstream
+-
+
